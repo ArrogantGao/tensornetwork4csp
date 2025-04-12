@@ -5,3 +5,11 @@ KaHyPar = "2a6221f6-aa48-11e9-3542-2d9e0ef01880"
 OMEinsum = "ebe7aa44-baf0-506c-a96f-8464559b3922"
 ProblemReductions = "899c297d-f7d2-4ebf-8815-a35996def416"
 UnitDiskMapping = "1b61a8d9-79ed-4491-8266-ef37f39e1727"
+
+[compat]
+GenericTensorNetworks = "4.0.1"
+Graphs = "1.12.1"
+KaHyPar = "0.3.1"
+OMEinsum = "0.8.5"
+ProblemReductions = "0.3.1"
+UnitDiskMapping = "0.4.0"
