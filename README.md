@@ -8,3 +8,13 @@ julia --project -e 'using Pkg; Pkg.instantiate()'
 ```
 Then use this local environment to run the code in the notebook files.
 
+Version of the packages used, also see `Project.toml`:
+```
+GenericTensorNetworks = "4.0.1"
+Graphs = "1.12.1"
+KaHyPar = "0.3.1"
+OMEinsum = "0.8.5"
+ProblemReductions = "0.3.3"
+UnitDiskMapping = "0.5.1"
+
+```
