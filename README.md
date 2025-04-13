@@ -1,6 +1,6 @@
 # tensornetwork4csp
 
-Examples used in "Programming guide for solving constraint satisfaction problems with tensor networks" https://doi.org/10.1088/1674-1056/adbee2.
+Examples used in "Programming guide for solving constraint satisfaction problems with tensor networks" https://doi.org/10.1088/1674-1056/adbee2. The arxiv version (recommanded): https://arxiv.org/pdf/2501.00227.
 
 To initialize the environment, run
 ```
